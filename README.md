@@ -71,6 +71,4 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nothung429&" alt="frank"/>
 </p>
 
-<div class="Gif " style="width: 683px; height: 311.327px;"><img src="https://media.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif" width="683" height="311.32730923694777" alt="Star Wars Obi Wan Kenobi GIF - Star Wars Obi Wan Kenobi Hello There GIFs" style="max-width: 683px;">
-  <img src="https://media.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif" width="683" height="311.32730923694777" alt="Star Wars Obi Wan Kenobi GIF - Star Wars Obi Wan Kenobi Hello There GIFs" style="max-width: 683px;">
-</div>
+<div class="Gif " style="width: 683px; height: 311.327px;"><img src="https://media.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif" width="683" height="311.32730923694777" alt="Star Wars Obi Wan Kenobi GIF - Star Wars Obi Wan Kenobi Hello There GIFs" style="max-width: 683px;"></div>
