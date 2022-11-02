@@ -1,5 +1,9 @@
 <h1>Hello there 👋</h1>
 
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=34eb49&width=380&height=85&lines=Hello+there+...;I'm+a+web+developer+from+Italy;I+hope+you+will+find...;...my+profile+interesting!&center=true"></a>
+</p>
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=nothung429&label=Profile%20views&color=0e75b6&style=flat" alt="frank" /> 
 </p>
